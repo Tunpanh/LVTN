@@ -1,0 +1,10 @@
+- Firebase: https://firebase.google.com/docs/database/web/read-and-write
+	 https://www-staging.firebase.com/docs/web/guide/retrieving-data.html
+- Material design lite: https://getmdl.io/components/index.html
+- Full calendar: https://fullcalendar.io/
+- Html, css, jquery, javascript: https://code.jquery.com
+		               https://www.w3schools.com/
+- Google map api: https://developers.google.com/maps/documentation/javascript/
+- Google chart: https://developers.google.com/chart/
+- Google material design icons: https://material.io/icons/
+https://stackoverflow.com/questions/
